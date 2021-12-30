@@ -13,7 +13,7 @@ namespace L2_8_Zad_4
 
             int counter = 1;
 
-            for (int i = 1; counter < inputNumber; i++)
+            for (int i = 1; counter <= inputNumber; i++)
             {
                 for (int j = 0; j < i; j++)
                 {
